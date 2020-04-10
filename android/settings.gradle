@@ -1,0 +1,3 @@
+rootProject.name = 'keno_web_test_number_2574'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
